@@ -4,7 +4,7 @@ API Binance Python
 
 Introducción a la API de Binance utilizando Python.
 
-La API de Binance nos permite conectarnos a los servidores de Binance con el objeto de extraer información interactuar con ellos y realizar operaciones propias del Trading.
+La API de Binance nos permite conectarnos a los servidores de Binance con el objeto de extraer información interactuar con ella y realizar operaciones propias del Trading.
 
 *   [API-BINANCE](https://github.com/P4t0R/API-Binance/blob/main/API_BINANCE.ipynb)
 
